@@ -9,7 +9,7 @@ Thực hiện bởi [Trần Hoàng Linh](https://github.com/LinhHoang1110)
 
 ### Các layout và element:
 # Color:
-[color](https://linhhoang1110.github.io/active-box/views/colors.html)
+[color](https://linhhoang1110.github.io/active-box/views/color.html)
 # Images
 [images](https://linhhoang1110.github.io/active-box/views/fonts.html)
 # Fonts
