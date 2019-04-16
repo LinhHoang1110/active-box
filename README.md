@@ -9,9 +9,9 @@ Thực hiện bởi [Trần Hoàng Linh](https://github.com/LinhHoang1110)
 
 ### Các layout và element:
 # Color:
-[color](https://github.com/LinhHoang1110/active-box/blob/master/views/color.html)
+[color](https://linhhoang1110.github.io/active-box/views/colors.html)
 # Images
-[images](https://github.com/LinhHoang1110/active-box/blob/master/views/fonts.html)
+[images](https://linhhoang1110.github.io/active-box/views/fonts.html)
 # Fonts
-[font](https://github.com/LinhHoang1110/active-box/blob/master/views/images.html)
+[font](https://linhhoang1110.github.io/active-box/views/images.html)
 
